@@ -10,16 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Project 1 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Fraud Detection
 
-## Header 2
+# Project 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
+Exploratory Data Analysis on Class VIII students of Maharashtra
 ### Header 3
 
 ```js
@@ -105,11 +102,11 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
+<dd>Krishna Iyer</dd>
+<dt>Nov6</dt>
+<dd>1996</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>India</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
